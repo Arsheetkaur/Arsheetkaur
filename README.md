@@ -1,6 +1,5 @@
 # 👋 Hello, I'm Arsheet Kaur!
-https://i.pinimg.com/originals/38/9f/8a/389f8a59fe2ae105562ae548798dee47.gif
-<img src="your-https://i.pinimg.com/originals/38/9f/8a/389f8a59fe2ae105562ae548798dee47.gif" alt="Profile Photo" width="250" align="right">
+<img src="image-url.gif" alt="Profile Photo" width="250" align="right">
 
 ### 💻 Developer | 🌱 Learner | 🎧 Code & Music Enthusiast
 
