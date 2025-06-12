@@ -1,9 +1,10 @@
 <p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Arsheetkaur&label=Profile%20Views&color=blueviolet&style=flat" alt="Arsheetkaur" /> 
+  <img src="https://komarev.com/ghpvc/?username=Arsheetkaur&label=Profile%20Views&color=blueviolet&style=fla" alt="Arsheetkaur" /> 
 </p>
 
 # 👋 Hello, I'm Arsheet Kaur!
-<img src="<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300" align="right">" width="300">
+<img src="<img src="![Coding Girl](https://media.giphy.com/media/LMt9638dO8dftAjtco/giphy.gif)
+" width="300" align="right">" width="300">
 
 ### 💻 Developer | 🌱 Learner | 🎧 Code & Music Enthusiast
 
