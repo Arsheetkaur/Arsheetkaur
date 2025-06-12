@@ -1,11 +1,11 @@
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Arsheetkaur&label=Profile%20Views&color=blueviolet&style=fla" alt="Arsheetkaur" /> 
-</p>
-
 # 👋 Hello, I'm Arsheet Kaur!
 <img src="codinggirl.gif1-ezgif.com-video-to-gif-converter.gif" width="400px" align="right">
 
 ### 💻 Developer | 🌱 Learner | 🎧 Code & Music Enthusiast
+
+<p align="center"> 
+  <img src="https://komarev.com/ghpvc/?username=Arsheetkaur&label=Profile%20Views&color=blueviolet&style=fla" alt="Arsheetkaur" /> 
+</p>
 
 **🌱 Currently Learning:**  
 - C++ • DSA • JavaScript Frameworks • UI/UX Design  
