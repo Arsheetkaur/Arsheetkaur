@@ -1,15 +1,17 @@
-# 👋 Hello, I'm Arsheet Kaur!
-<img src="codinggirl.gif1-ezgif.com-video-to-gif-converter.gif" width="400px" align="right">
-
-### 💻 Developer | 🌱 Learner | 🎧 Code & Music Enthusiast
-
-<p align="center"> 
-  <img src="https://komarev.com/ghpvc/?username=Arsheetkaur&label=Profile%20Views&color=blueviolet&style=fla" alt="Arsheetkaur" /> 
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Arsheetkaur&label=Profile%20Views&color=blueviolet&style=flat" alt="Arsheetkaur" /> 
 </p>
+
+<div align="center">
+  <h1>👋 Hello, I'm Arsheet Kaur!</h1>
+  <h3>💻 Developer | 🌱 Learner | 🎧 Code & Music Enthusiast</h3>
+</div>
+
+<img src="codinggirl.gif1-ezgif.com-video-to-gif-converter.gif" width="400px" align="right">
 
 **🌱 Currently Learning:**  
 - C++ • DSA • JavaScript Frameworks • UI/UX Design  
-- Building projects with MERN stack 
+- Building projects with MERN stack  
 
 **💬 Ask me about:**  
 - HTML/CSS • JavaScript • C/C++ • Web Development  
@@ -17,7 +19,7 @@
 **⚡ Fun Fact:**  
 My coding sessions run 300% better with the perfect playlist! 🎵  
 
----
+--- 
 
 ## 🛠️ Tech Stack  
 
@@ -40,7 +42,7 @@ My coding sessions run 300% better with the perfect playlist! 🎵
 
 ## 📫 Connect With Me  
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsheet-kaur-94b207346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bz9pxeSkpQ%2Buq7zG2LXjz6A%3D%3D)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arsheet-kaur-94b207346)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsheetkaur944@gmail.com)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/yourprofile)  
 
@@ -48,5 +50,4 @@ My coding sessions run 300% better with the perfect playlist! 🎵
 
 ## 📊 GitHub Stats  
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsheetkaur&show_icons=true&theme=radical)  
-
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Arsheetkaur&layout=compact&theme=radical)
