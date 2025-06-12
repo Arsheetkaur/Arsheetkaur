@@ -20,6 +20,12 @@
 1. [Tic Tac Toe Game](https://github.com/Arsheetkaur/tic-tac-toe) - Interactive game with animations
 2. [Car Animation](https://github.com/Arsheetkaur/car-animation) - CSS/JS motion project
 
+## 📬 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-%230077B5?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/arsheet-kaur-94b207346?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3BvpFJGEY3RH2B2xvYpPdL0A%3D%3D)
+[![Email](https://img.shields.io/badge/Email-Contact-%23D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:arsheetkaur944@gmail.com)
+[![Twitter/X](https://img.shields.io/badge/X-Follow-%23000000?style=for-the-badge&logo=x)](https://x.com/ArsheetK82118?t=pnVL-VcoS3S506ZczsRzUg&s=09)
+[![Instagram](https://img.shields.io/badge/Instagram-DM-%23E4405F?style=for-the-badge&logo=instagram)](https://www.instagram.com/arsheetdhillon1055?igsh=YjQ5eTY1aWxzczJ3)
+
 ## 📈 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Arsheetkaur&show_icons=true&theme=radical)
 
