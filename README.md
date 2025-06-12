@@ -3,7 +3,7 @@
 </p>
 
 # 👋 Hello, I'm Arsheet Kaur!
-<img src="https://miro.medium.com/v2/resize:fit:1400/format:webp/1*bNoVv9OeDbL1U-qZZrQCJw.gif" width="300" align="right">
+<img src="codinggirl.gif" width="300" align="right">
 
 ### 💻 Developer | 🌱 Learner | 🎧 Code & Music Enthusiast
 
