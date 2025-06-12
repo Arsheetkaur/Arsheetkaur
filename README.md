@@ -1,5 +1,5 @@
 # 👋 Hello, I'm Arsheet Kaur!
-<img src="videoframe_7807.png" alt="Profile Photo"  align="right">
+<img src="https://media.giphy.com/media/QTfX9Ejfra3ZmNxh6B/giphy.gif" width="300">
 
 ### 💻 Developer | 🌱 Learner | 🎧 Code & Music Enthusiast
 
